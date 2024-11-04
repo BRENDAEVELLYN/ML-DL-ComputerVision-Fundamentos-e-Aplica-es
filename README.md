@@ -12,3 +12,6 @@ Certifique-se de ter o OpenCV instalado no seu ambiente Python:
 
 ```bash
 pip install opencv-python
+
+
+Esse README agora inclui uma seção que menciona o resumo sobre Machine Learning, Deep Learning e Redes Neurais, tornando claro que há um arquivo IPYNB associado ao projeto.
